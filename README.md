@@ -1,2 +1,2 @@
-# part2whole
+# Chart Challenge
 part2whole
