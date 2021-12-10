@@ -11,3 +11,9 @@ Made with infogram.com.
 Day 2: Pictogram. An Honest Assessment of the Utility of My Desktop Files
 ![Honest Assessment of Desktop Files](https://user-images.githubusercontent.com/95489525/145153065-abd3c8a6-bf5e-4e34-967e-1442a81c3a1d.png)
 Made with app.creately.com
+
+Day 3: Pictogram. 24 emotions from 5pm Dec 8 to 5pm Dec 9, one for each hour in a day 
+
+![pictogram_24hours](https://user-images.githubusercontent.com/95489525/145501455-daf0cd37-f275-4626-8baf-12e581f8241d.png)
+
+Used pywaffle and Dakota Chang's first pictogram code for guidance/help. 
