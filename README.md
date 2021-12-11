@@ -26,7 +26,8 @@ original:
 
 ![630print](https://user-images.githubusercontent.com/95489525/145689828-6dfc3167-9e04-48e2-a227-67539efdfe6b.png)
 
-* [documentation for line shading] (https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill_between_demo.html) 
-* [I found the OG graph here] (https://rockcontent.com/blog/12-great-visualizations-that-made-history/) 
-* [plt line graph documentation] (https://datatofish.com/line-chart-python-matplotlib/)
+* [documentation for line shading](https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill_between_demo.html)
+* [I found the OG graph here](https://rockcontent.com/blog/12-great-visualizations-that-made-history/)
+* [plt line graph documentation](https://datatofish.com/line-chart-python-matplotlib/)
+
 
