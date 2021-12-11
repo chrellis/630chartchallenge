@@ -17,3 +17,16 @@ Day 3: Pictogram. 24 emotions from 5pm Dec 8 to 5pm Dec 9, one for each hour in 
 ![pictogram_24hours](https://user-images.githubusercontent.com/95489525/145501455-daf0cd37-f275-4626-8baf-12e581f8241d.png)
 
 Used pywaffle and Dakota Chang's first pictogram code for guidance/help. 
+
+Day 4: Historical. This visualization is a modern recreation of one of William Playfair's line graphs from the 18th century. I've included the original below. 
+
+![historical](https://user-images.githubusercontent.com/95489525/145689845-1f8604a5-0382-469f-abbc-7c3a87d5199f.png)
+
+original: 
+
+![630print](https://user-images.githubusercontent.com/95489525/145689828-6dfc3167-9e04-48e2-a227-67539efdfe6b.png)
+
+* [documentation for line shading] (https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill_between_demo.html) 
+* [I found the OG graph here] (https://rockcontent.com/blog/12-great-visualizations-that-made-history/) 
+* [plt line graph documentation] (https://datatofish.com/line-chart-python-matplotlib/)
+
