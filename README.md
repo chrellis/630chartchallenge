@@ -30,4 +30,5 @@ original:
 * [I found the OG graph here](https://rockcontent.com/blog/12-great-visualizations-that-made-history/)
 * [plt line graph documentation](https://datatofish.com/line-chart-python-matplotlib/)
 
-
+Day 5:  Magical. I made a pictogram to represent Magic Johnson's Height. I hope you enjoy!
+![magical630](https://user-images.githubusercontent.com/95489525/146109629-406cc7f0-30f1-46f4-9463-7cbfef36ded6.png)
