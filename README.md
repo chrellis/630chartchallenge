@@ -37,3 +37,5 @@ Day 6: Slopes. Using a bar graph, I compared prices for a single adult to ski at
 
 ![630slopes](https://user-images.githubusercontent.com/95489525/148472602-4f6a4792-1266-45e2-ab7f-0069a9a51ef4.png)
 
+Used this * [webstite](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/) for bar graph help in python
+
