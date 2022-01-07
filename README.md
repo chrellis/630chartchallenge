@@ -32,3 +32,8 @@ original:
 
 Day 5:  Magical. I made a pictogram to represent Magic Johnson's Height. I hope you enjoy!
 ![magical630](https://user-images.githubusercontent.com/95489525/146109629-406cc7f0-30f1-46f4-9463-7cbfef36ded6.png)
+
+Day 6: Slopes. Using a bar graph, I compared prices for a single adult to ski at 4 ski resorts (where they would ski on slopes) from 1/6 to 1/7
+
+![630slopes](https://user-images.githubusercontent.com/95489525/148472602-4f6a4792-1266-45e2-ab7f-0069a9a51ef4.png)
+
