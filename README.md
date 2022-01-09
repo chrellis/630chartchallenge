@@ -37,5 +37,9 @@ Day 6: Slopes. Using a bar graph, I compared prices for a single adult to ski at
 
 ![630slopes](https://user-images.githubusercontent.com/95489525/148472602-4f6a4792-1266-45e2-ab7f-0069a9a51ef4.png)
 
-* Used this [webstite](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/) for bar graph help in python
+* Used this [website](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/) for bar graph help in python
+
+Day 7: Experimental. I'm representing a polar rose with a 3d plt stem plot. I just wanted to use it and see how it worked.
+![experimental](https://user-images.githubusercontent.com/95489525/148702618-edec0e14-2e2c-4b42-a287-adb339caaa61.png)
+
 
