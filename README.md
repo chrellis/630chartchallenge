@@ -42,4 +42,8 @@ Day 6: Slopes. Using a bar graph, I compared prices for a single adult to ski at
 Day 7: Experimental. I'm representing a polar rose with a 3d plt stem plot. I just wanted to use it and see how it worked.
 ![experimental](https://user-images.githubusercontent.com/95489525/148702618-edec0e14-2e2c-4b42-a287-adb339caaa61.png)
 
+Day 8: Distribution- physical 
+![distribution_physical](https://user-images.githubusercontent.com/95489525/149051145-3960ae15-c5be-4bdf-bb49-81a2fb19b233.png)
+
+
 
