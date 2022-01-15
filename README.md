@@ -45,5 +45,12 @@ Day 7: Experimental. I'm representing a polar rose with a 3d plt stem plot. I ju
 Day 8: Distribution- physical 
 ![distribution_physical](https://user-images.githubusercontent.com/95489525/149051145-3960ae15-c5be-4bdf-bb49-81a2fb19b233.png)
 
+Day 9: Distribution- animal 
+
+![animal_distributions](https://user-images.githubusercontent.com/95489525/149638935-7cfa6512-2424-4514-9979-aece61b35b3b.png)
+
+Gained info on cardinal population from [here](https://animalia.bio/northern-cardinal?page=1)
+
+
 
 
