@@ -51,6 +51,10 @@ Day 9: Distribution- animal
 
 Gained info on cardinal population from [here](https://animalia.bio/northern-cardinal?page=1)
 
+Day 10: Racial statistics 
+
+![statistics630](https://user-images.githubusercontent.com/95489525/150692074-1497edf1-3b58-4c95-844b-94fd2228a97d.png)
+
 
 
 
