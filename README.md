@@ -56,5 +56,8 @@ Day 10: Racial statistics
 ![statistics630](https://user-images.githubusercontent.com/95489525/150692074-1497edf1-3b58-4c95-844b-94fd2228a97d.png)
 
 
+Day 11: Abstract 
 
+![ABSTRACT](https://user-images.githubusercontent.com/95489525/150692378-8ebed3f4-098c-4077-b02b-0a039787f0ff.png)
 
+I used the example on the matplotlib website as a template and messed around with data values and equations until I got a cool design. I have no idea what this is or what it means, but it's gorgeous.
