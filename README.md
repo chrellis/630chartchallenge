@@ -61,3 +61,14 @@ Day 11: Abstract
 ![ABSTRACT](https://user-images.githubusercontent.com/95489525/150692378-8ebed3f4-098c-4077-b02b-0a039787f0ff.png)
 
 I used the example on the matplotlib website as a template and messed around with data values and equations until I got a cool design. I have no idea what this is or what it means, but it's gorgeous.
+
+
+Day 12: Circular 
+
+<img width="1255" alt="630circular" src="https://user-images.githubusercontent.com/95489525/151868552-3418e881-7532-48c5-a2a5-d23994b87d04.png">
+
+Day 13: Strips 
+<img width="1077" alt="630strip" src="https://user-images.githubusercontent.com/95489525/151868526-aecc3573-dfd3-456b-ba97-88e70f3627db.png">
+
+Day 14: Correlation 
+<img width="1073" alt="630correlation" src="https://user-images.githubusercontent.com/95489525/151868542-5fc1f5cb-8c4c-4142-8c79-5ded0ab48925.png">
