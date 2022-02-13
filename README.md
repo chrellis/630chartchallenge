@@ -73,8 +73,11 @@ Day 13: Strips
 Day 14: Correlation 
 <img width="1073" alt="630correlation" src="https://user-images.githubusercontent.com/95489525/151868542-5fc1f5cb-8c4c-4142-8c79-5ded0ab48925.png">
 
-Day 15: Relationships: Space
+Day 15: Relationships: Space. There's massive variation in planet mass that's super interesting.
+
+
 ![space](https://user-images.githubusercontent.com/95489525/153776769-52479efe-edc6-449c-a1f4-73ba098f7bc8.png)
 
-Day 16: Relationships: Multivariate 
+Day 16: Relationships: Multivariate. This is on the Humidex!!! 10 different bands of humidex levels... the x axis is temperature and y axis is dew point.
+
 ![multivariate(humidex)](https://user-images.githubusercontent.com/95489525/153776748-3d28a529-c1d8-4e88-9dcf-7246ce7997c6.png)
